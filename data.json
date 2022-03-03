@@ -1,6 +1,9 @@
 {
 	"app_version": {
-		"value": 2
+		"value": 1
+	},
+	"last_updated": {
+		"value": null
 	},
 	"ap": {
 		"value": "jgx-xhmk-kgo"
@@ -12,7 +15,7 @@
 		"value": "ntu-spgc-qop"
 	},
 	"science": {
-		"value": "ueq-hwrx-qgf"
+		"value": "nnm-qriq-jni"
 	},
 	"english": {
 		"value": "xwr-jtzm-fmh"
